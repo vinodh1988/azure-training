@@ -37,3 +37,14 @@ git status
   git commit -m <messsage>
 
 ```
+
+### push
+
+```
+  Pushes commited code from local repository to central repository
+
+  and it decides to push the code based on the commit headers
+
+git push -u origin <branchname>
+
+```
